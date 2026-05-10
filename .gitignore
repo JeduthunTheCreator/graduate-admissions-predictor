@@ -36,6 +36,5 @@ Thumbs.db
 .env.local
 
 # Generated files
-static/images/*.png
 *.pkl
 *.joblib
