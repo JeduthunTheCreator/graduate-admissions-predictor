@@ -25,7 +25,6 @@ Thumbs.db
 
 # Data
 *.csv
-!admissions_data.csv
 
 # Jupyter Notebook
 .ipynb_checkpoints/
