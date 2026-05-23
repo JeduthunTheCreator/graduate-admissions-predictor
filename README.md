@@ -1,9 +1,9 @@
 # Graduate Admissions Predictor - Regression Model
-[![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat&logo=python&logoColor=white)](https://react.dev/)
-[![TensorFlow](https://img.shields.io/badge/Tensorflow-2.8.0-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://react.dev/)
-[![Keras](https://img.shields.io/badge/Keras-3.14.0-D00000?style=flat&logo=keras&logoColor=white)](https://react.dev/)
-[![Scikit-learn](https://img.shields.io/badge/ScikitLearn-1.0.0-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://react.dev/)
-[![Matplotlib](https://img.shields.io/badge/Matplolib-3.4.0-11557c?style=flat&logoColor=white)](https://react.dev/)
+[![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16+-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-3.14.0-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.4+-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.0-11557c?style=flat&logoColor=white)](https://matplotlib.org/)
 
 A deep learning regression model built with Tensorflow/Keras that predicts the probaility of a students's admission into a graduate program based on academic and profile features.
 
@@ -66,10 +66,12 @@ The plot shows:
 ```bash
 pip install -r requirements.txt
 ```
+
 1. Clone the repository
 ```bash
 git clone <your-repo-url>
 cd graduate-admissions-prediction
+```
 
 2. Download the dataset and place the admissions_data.csv in the project root directory
 
